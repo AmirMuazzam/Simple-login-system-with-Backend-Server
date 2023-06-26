@@ -68,7 +68,7 @@ The project consists of the following files:
 7. Enter your login credentials and click the "Submit" button to initiate the login process.
 8. The frontend will communicate with the backend server to authenticate your credentials.
 9. If the credentials are valid, you will receive a success message. Otherwise, an error message will be displayed.
-10. 7. Stop the Server
+10. Stop the Server
 To stop the FastAPI server, press Ctrl + C in the terminal or command prompt where the server is running.
 That's it how to run the login system project!
 
